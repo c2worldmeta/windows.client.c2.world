@@ -1,2 +1,2 @@
-# C2.World Windows Demo
+# C2.World Windows Client
  
